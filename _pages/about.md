@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-<div class="row">
+<div class="row d-flex flex-wrap align-items-center">
     <div class="col-md-8 pr-5">
         <h1>Ye Qian</h1>
         <h6>a designer and media artist</h6>
