@@ -4,7 +4,7 @@ title: "yesart"
 description: "Collection of Ye's art"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /yesart
+baseurl: 
 google_analytics: ''
 disqus: 'yesart'
 mailchimp-list: ''
